@@ -90,7 +90,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Google Chrome or any other browse installed in your computer
+Google Chrome or any other browse installed in your computer. 
+
 Git installed in your computer
 
 ### Setup
